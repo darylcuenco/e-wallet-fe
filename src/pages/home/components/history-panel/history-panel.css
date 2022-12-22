@@ -1,0 +1,15 @@
+.HistoryPanel {
+    border: 1px solid #3ebaeb;
+    background-color: transparent;
+    height: 300px;
+    width: 2200px;
+    color: #3498db;
+    font-size: 1.5em;
+    max-width: calc(100% - 55px);
+    margin-top: 20px;
+    margin-left: 15px;
+    margin-bottom: 70px;
+    padding: 0 10px;
+    position: relative;
+    border-radius: 10px;
+}

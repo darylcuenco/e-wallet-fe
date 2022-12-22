@@ -1,0 +1,39 @@
+.NavBar {
+    top:auto;
+    bottom: 0;
+    position:fixed;
+    overflow: hidden;
+    width: 2200px;
+    height: 70px;
+    max-width: calc(100% - 20px);
+    background-color: #333b52;
+    border-radius: 20px;
+    /* box-shadow: 0 6px 6px rgba(0, 0, 0, 0.6); */
+}
+
+.btn1{
+    margin-top: 15px;
+    margin-left: 20px;
+    float: left;
+}
+
+.btn2{
+    margin-top: 15px;
+    margin-right: 20px;
+    float: right;
+    /* background-color: rgb(255, 45, 45); */
+}
+
+.btn3{
+    margin-top: 15px;
+    /* background-color: rgb(255, 45, 45); */
+}
+
+/* ul {
+    position:fixed;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  } */

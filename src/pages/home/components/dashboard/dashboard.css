@@ -1,0 +1,33 @@
+.Dashboard {
+    border: 1px solid #3ebaeb;
+    background-color: #3ebaeb;
+    height: 300px;
+    width: 2200px;
+    color: #3498db;
+    font-size: 1.5em;
+    max-width: calc(100% - 55px);
+    margin-top: 50px;
+    margin-left: 15px;
+    padding: 0 10px;
+    position: relative;
+    border-radius: 10px;
+}
+
+.container1{
+    display: flex; 
+    justify-content: space-between;
+    margin-top: 10px;
+    padding-bottom: 20px;
+}
+
+.container2{
+    height: 30px;
+}
+
+.label{
+    font-size: small;
+    margin-top: 3px;
+    color: #bedcf0;
+    font-family: Arial, Helvetica, sans-serif;
+    /* box-shadow: 0 6px 6px rgba(0, 0, 0, 0.6); */
+}
